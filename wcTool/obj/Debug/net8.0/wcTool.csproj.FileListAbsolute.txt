@@ -1,0 +1,14 @@
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\wcTool\bin\Debug\net8.0\wcTool.exe
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\wcTool\bin\Debug\net8.0\wcTool.deps.json
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\wcTool\bin\Debug\net8.0\wcTool.runtimeconfig.json
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\wcTool\bin\Debug\net8.0\wcTool.dll
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\wcTool\bin\Debug\net8.0\wcTool.pdb
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\wcTool\obj\Debug\net8.0\wcTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\wcTool\obj\Debug\net8.0\wcTool.AssemblyInfoInputs.cache
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\wcTool\obj\Debug\net8.0\wcTool.AssemblyInfo.cs
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\wcTool\obj\Debug\net8.0\wcTool.csproj.CoreCompileInputs.cache
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\wcTool\obj\Debug\net8.0\wcTool.dll
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\wcTool\obj\Debug\net8.0\refint\wcTool.dll
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\wcTool\obj\Debug\net8.0\wcTool.pdb
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\wcTool\obj\Debug\net8.0\wcTool.genruntimeconfig.cache
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\wcTool\obj\Debug\net8.0\ref\wcTool.dll

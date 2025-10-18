@@ -1,0 +1,14 @@
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CalcConsoleApp\bin\Debug\net8.0\CalcConsoleApp.exe
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CalcConsoleApp\bin\Debug\net8.0\CalcConsoleApp.deps.json
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CalcConsoleApp\bin\Debug\net8.0\CalcConsoleApp.runtimeconfig.json
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CalcConsoleApp\bin\Debug\net8.0\CalcConsoleApp.dll
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CalcConsoleApp\bin\Debug\net8.0\CalcConsoleApp.pdb
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CalcConsoleApp\obj\Debug\net8.0\CalcConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CalcConsoleApp\obj\Debug\net8.0\CalcConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CalcConsoleApp\obj\Debug\net8.0\CalcConsoleApp.AssemblyInfo.cs
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CalcConsoleApp\obj\Debug\net8.0\CalcConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CalcConsoleApp\obj\Debug\net8.0\CalcConsoleApp.dll
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CalcConsoleApp\obj\Debug\net8.0\refint\CalcConsoleApp.dll
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CalcConsoleApp\obj\Debug\net8.0\CalcConsoleApp.pdb
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CalcConsoleApp\obj\Debug\net8.0\CalcConsoleApp.genruntimeconfig.cache
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CalcConsoleApp\obj\Debug\net8.0\ref\CalcConsoleApp.dll
