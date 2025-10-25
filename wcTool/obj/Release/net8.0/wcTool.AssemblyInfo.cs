@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("wcTool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+209d860b978b8f00a996ff3e4d23c53ce789b6b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("wcTool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("wcTool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,6 @@
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\wcTool\bin\Release\net8.0\publish\test.txt
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\wcTool\bin\Release\net8.0\publish\wcTool.exe
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\wcTool\bin\Release\net8.0\publish\wcTool.dll
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\wcTool\bin\Release\net8.0\publish\wcTool.deps.json
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\wcTool\bin\Release\net8.0\publish\wcTool.runtimeconfig.json
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\wcTool\bin\Release\net8.0\publish\wcTool.pdb

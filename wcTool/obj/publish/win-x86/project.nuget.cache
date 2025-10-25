@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EXozyGF2sE/tbltoeNGwLupWryfoTh8WU2H+k/A2vLSv6AV7ip7ckhKzRhFr30Zo6WJdGvcltTrjpnBJAatqyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pranay More\\OneDrive\\Desktop\\.Net\\Coding challenges\\wcTool\\wcTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pranay More\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.1\\microsoft.netcore.app.runtime.win-x86.8.0.1.nupkg.sha512",
+    "C:\\Users\\Pranay More\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.1\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.1.nupkg.sha512",
+    "C:\\Users\\Pranay More\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.1\\microsoft.aspnetcore.app.runtime.win-x86.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

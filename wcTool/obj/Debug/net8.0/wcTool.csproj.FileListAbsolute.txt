@@ -12,3 +12,5 @@ C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\wcTool\obj\Debug\ne
 C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\wcTool\obj\Debug\net8.0\wcTool.pdb
 C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\wcTool\obj\Debug\net8.0\wcTool.genruntimeconfig.cache
 C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\wcTool\obj\Debug\net8.0\ref\wcTool.dll
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\wcTool\obj\Debug\net8.0\wcTool.sourcelink.json
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\wcTool\bin\Debug\net8.0\test.txt
