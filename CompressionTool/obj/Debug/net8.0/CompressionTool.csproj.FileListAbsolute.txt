@@ -1,0 +1,15 @@
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CompressionTool\bin\Debug\net8.0\CompressionTool.exe
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CompressionTool\bin\Debug\net8.0\CompressionTool.deps.json
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CompressionTool\bin\Debug\net8.0\CompressionTool.runtimeconfig.json
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CompressionTool\bin\Debug\net8.0\CompressionTool.dll
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CompressionTool\bin\Debug\net8.0\CompressionTool.pdb
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CompressionTool\obj\Debug\net8.0\CompressionTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CompressionTool\obj\Debug\net8.0\CompressionTool.AssemblyInfoInputs.cache
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CompressionTool\obj\Debug\net8.0\CompressionTool.AssemblyInfo.cs
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CompressionTool\obj\Debug\net8.0\CompressionTool.csproj.CoreCompileInputs.cache
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CompressionTool\obj\Debug\net8.0\CompressionTool.sourcelink.json
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CompressionTool\obj\Debug\net8.0\CompressionTool.dll
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CompressionTool\obj\Debug\net8.0\refint\CompressionTool.dll
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CompressionTool\obj\Debug\net8.0\CompressionTool.pdb
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CompressionTool\obj\Debug\net8.0\CompressionTool.genruntimeconfig.cache
+C:\Users\Pranay More\OneDrive\Desktop\.Net\Coding challenges\CompressionTool\obj\Debug\net8.0\ref\CompressionTool.dll
